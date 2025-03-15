@@ -395,6 +395,10 @@ body.presupuesto{
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
 }
 
+.buttonPresupuesto:hover{
+    cursor: pointer;
+}
+
 /***********SECCION CONTACTO************/
 
 .containerGeneral{
@@ -492,4 +496,8 @@ body.presupuesto{
     border: 1px solid black;
     background-color: white;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+.ultimoButton:hover, a:hover{
+    cursor: pointer;
 }
